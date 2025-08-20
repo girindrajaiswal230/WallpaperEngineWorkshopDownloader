@@ -1,6 +1,6 @@
 # **🎨 WallpaperDownloader**
 
-**WallpaperDownloader** is a simple tool that lets you download wallpapers from the **Steam Workshop (Wallpaper Engine)** and use them as live wallpapers with Lively Wallpaper.
+**WallpaperDownloader** is a simple tool that lets you download wallpapers from the **Steam Workshop (Wallpaper Engine)** and use them as live wallpapers with [Lively Wallpaper](https://www.rocksdanister.com/lively/).
 
 ## **✨ Features**
 
@@ -37,7 +37,7 @@
 
 * Choose a folder where wallpapers will be saved.
 
-* Open Steam → Wallpaper Engine → Workshop.
+* Open Steam → Wallpaper Engine → Workshop or just click here to open [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=431960&searchtext=&childpublishedfileid=0&browsesort=trend&section=readytouseitems&requiredtags%5B%5D=Everyone&created_date_range_filter_start=0&created_date_range_filter_end=0&updated_date_range_filter_start=0&updated_date_range_filter_end=0).
 
 * Use the age filter set to “Everyone” to avoid explicit content.
 
@@ -55,9 +55,9 @@
 
 This project depends on:
 
-* DepotDownloaderMod → GitHub Repository: https://github.com/SteamAutoCracks/DepotDownloaderMod
+* DepotDownloaderMod → [GitHub Repository](https://github.com/SteamAutoCracks/DepotDownloaderMod)
 
-* Lively Wallpaper → Microsoft Store: https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US
+* Lively Wallpaper → [Microsoft Store](https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US)
 
 Make sure both are available before using the app.
 

@@ -55,24 +55,28 @@
 
 This project depends on:
 
-* DepotDownloaderMod → GitHub Repository
+* DepotDownloaderMod → GitHub Repository: https://github.com/SteamAutoCracks/DepotDownloaderMod
 
-* Lively Wallpaper → Microsoft Store
+* Lively Wallpaper → Microsoft Store: https://apps.microsoft.com/detail/9ntm2qc6qws7?hl=en-US&gl=US
 
 Make sure both are available before using the app.
 
 ## **❓ FAQ**
 
 **Q: Do I need Python installed?**
+
 👉 No, the .exe is standalone.
 
 **Q: Why is my antivirus flagging it?**
+
 👉 Some antivirus tools flag PyInstaller .exe files as false positives. Add it to your safe list if needed.
 
 **Q: Where are wallpapers saved?**
+
 👉 In the folder you select during setup.
 
 **Q: Can I run it on Mac/Linux?**
+
 👉 Not directly. This build is for Windows.
 
 

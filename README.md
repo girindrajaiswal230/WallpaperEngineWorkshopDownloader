@@ -37,9 +37,11 @@
 
 * Choose a folder where wallpapers will be saved.
 
-* Open Steam → Wallpaper Engine → Workshop or just click here to open [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=431960&searchtext=&childpublishedfileid=0&browsesort=trend&section=readytouseitems&requiredtags%5B%5D=Everyone&created_date_range_filter_start=0&created_date_range_filter_end=0&updated_date_range_filter_start=0&updated_date_range_filter_end=0).
+* Open Steam → Wallpaper Engine → Workshop or just click here to open [Steam Workshop](https://steamcommunity.com/workshop/browse/?appid=431960&browsesort=trend&section=readytouseitems&requiredtags%5B0%5D=Everyone&created_date_range_filter_start=0&created_date_range_filter_end=0&updated_date_range_filter_start=0&updated_date_range_filter_end=0&actualsort=trend&p=1&days=-1).
 
 * Use the age filter set to “Everyone” to avoid explicit content.
+
+* Pick that Wallpaper that is only Videe Type because right now the Audio reponsive Wallpapers are not working (will definitely make it work in some time)
 
 * Copy the wallpaper’s share link (example: https://steamcommunity.com/sharedfiles/filedetails/?id=2884323042).
 

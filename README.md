@@ -27,6 +27,8 @@
 * 👉 Download and install Lively Wallpaper
  from the Microsoft Store (required to set wallpapers).
 
+Restart your computer once downloaded if the wallpapers are not working
+
 * ⚠️ You do not need to install Python or Tkinter — the .exe is standalone.
 
 ## **🚀 Usage**

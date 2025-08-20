@@ -63,6 +63,11 @@ This project depends on:
 
 Make sure both are available before using the app.
 
+## **Fixing error**
+
+If the console shows: Unable to login to Steam3:AlreadyLoggedInElsewhere
+Then just change the account from ruiiixx to any other account and press download, if it shows error again then change it back to ruiiixx and it should work now
+
 ## **❓ FAQ**
 
 **Q: Do I need Python installed?**

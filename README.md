@@ -2,7 +2,7 @@
 
 **WallpaperDownloader** is a simple tool that lets you download wallpapers from the **Steam Workshop (Wallpaper Engine)** and use them as live wallpapers with Lively Wallpaper.
 
-##**✨ Features**
+## **✨ Features**
 
 * 🎬 Download any wallpaper from Wallpaper Engine’s Steam Workshop using its share link
 
@@ -14,7 +14,7 @@
 
 * ⚡ Easy-to-use interface with no coding knowledge required
 
-##**📥 Installation**
+## **📥 Installation**
 
 * Go to the Releases section of this repository.
 
@@ -29,7 +29,7 @@
 
 * ⚠️ You do not need to install Python or Tkinter — the .exe is standalone.
 
-##**🚀 Usage**
+## **🚀 Usage**
 
 * Run WallpaperDownloader.exe.
 
@@ -51,7 +51,7 @@
 
 * Apply it as your desktop live wallpaper.
 
-##**🔗 Dependencies**
+## **🔗 Dependencies**
 
 This project depends on:
 
@@ -60,3 +60,22 @@ This project depends on:
 * Lively Wallpaper → Microsoft Store
 
 Make sure both are available before using the app.
+
+## **❓ FAQ**
+
+**Q: Do I need Python installed?**
+👉 No, the .exe is standalone.
+
+**Q: Why is my antivirus flagging it?**
+👉 Some antivirus tools flag PyInstaller .exe files as false positives. Add it to your safe list if needed.
+
+**Q: Where are wallpapers saved?**
+👉 In the folder you select during setup.
+
+**Q: Can I run it on Mac/Linux?**
+👉 Not directly. This build is for Windows.
+
+
+## **📸 Screenshots**
+
+Will add Later
